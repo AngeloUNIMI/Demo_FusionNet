@@ -1,4 +1,4 @@
-# Demonstration of FusionNet using webcam
+# FusionNet for palmprint and finger texture recognition using a webcam
 
 Demonstration source code using the webcam for palmprint and finger texture recognition.
 The algorithms used in the code are based on the paper:
