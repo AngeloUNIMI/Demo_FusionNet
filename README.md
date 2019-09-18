@@ -54,8 +54,19 @@ Procedure:
     2) launch main file to enroll as many individuals as needed
     3) launch main file and choose 'r' for recognition
 
+Images: 
+
 Hand acquisition:  
 ![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
+
+Hand segmentation:  
+![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
+
+Palmprint ROI extraction:  
+![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
+
+Palmprint extraction:
+
     
 Part of the code uses the Matlab source code of the paper:
 
