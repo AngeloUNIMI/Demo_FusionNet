@@ -1,6 +1,6 @@
-# FusionNet for palmprint and finger texture recognition using a webcam
+# FusionNet for touchless palmprint and finger texture recognition using a webcam
 
-Demonstration source code using the webcam for palmprint and finger texture recognition.
+Demonstration source code using the webcam for touchless palmprint and finger texture recognition.
 The algorithms used in the code are based on the paper:
 
 	A. Genovese, V. Piuri, F. Scotti, and S. Vishwakarma, 
