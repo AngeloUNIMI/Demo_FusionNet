@@ -69,6 +69,18 @@ Part of the code uses the Matlab source code of the paper:
 	in IEEE Transactions on Image Processing, vol. 24, no. 12, pp. 5017-5032, Dec. 2015.
 	DOI: 10.1109/TIP.2015.2475625
     http://mx.nthu.edu.tw/~tsunghan/Source%20codes.html
+    
+the template creation algorithms in:
+
+    A. Genovese,
+    Source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep Learning fusion approach"
+    https://github.com/AngeloUNIMI/FusionNet
+    
+the segmentation algorithms in:
+
+    A. Genovese,
+    Source code for palmprint segmentation and ROI extraction used in the IEEE TIFS 2019 and IEEE CIVEMSA 2019 papers,
+    https://github.com/AngeloUNIMI/PalmSeg
 	
 and the export_fig library:
 
