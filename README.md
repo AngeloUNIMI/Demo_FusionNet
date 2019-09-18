@@ -61,9 +61,6 @@ Hand segmentation:
 
 Palmprint ROI extraction:  
 ![Outline](https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/demo_images/palmprint_ROI_extraction.jpg?raw=true "Palmprint ROI extraction")
-
-Palmprint extraction:
-
     
 Part of the code uses the Matlab source code of the paper:
 
