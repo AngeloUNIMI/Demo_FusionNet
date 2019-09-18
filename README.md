@@ -57,13 +57,13 @@ Procedure:
 Images: 
 
 Hand acquisition:  
-![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
+![Outline](https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/demo_images/hand_acquisition.png?raw=true "Hand acquisition")
 
 Hand segmentation:  
-![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
+![Outline](https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/demo_images/hand_segmentation.jpg?raw=true "Hand segmentation")
 
 Palmprint ROI extraction:  
-![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
+![Outline](https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/demo_images/palmprint_ROI_extraction.jpg?raw=true "Palmprint ROI extraction")
 
 Palmprint extraction:
 
