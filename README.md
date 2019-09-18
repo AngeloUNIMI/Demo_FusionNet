@@ -50,10 +50,12 @@ Procedure:
         a) choose a name for the individual
         b) capture the background without body parts and moving objects
         c) capture the left hand sideways, placing the hand inside the red box (see "./demo_images/hand_acquisition.png")
-![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
         d) repeat acquisition until 3 successful acquisitions are performed
     2) launch main file to enroll as many individuals as needed
     3) launch main file and choose 'r' for recognition
+
+Hand acquisition:  
+![Outline](https://raw.githubusercontent.com/AngeloUNIMI/Demo_FusionNet/master/demo_images/hand_acquisition.png?token=AFRE2VSOL3EU5AUOQZXBEYC5QHORM "Hand acquisition")
     
 Part of the code uses the Matlab source code of the paper:
 
