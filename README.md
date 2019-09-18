@@ -56,9 +56,6 @@ Procedure:
 
 Images: 
 
-Hand acquisition:  
-![Outline](https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/demo_images/hand_acquisition.png?raw=true "Hand acquisition")
-
 Hand segmentation:  
 ![Outline](https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/demo_images/hand_segmentation.jpg?raw=true "Hand segmentation")
 
