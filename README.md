@@ -10,7 +10,7 @@ The algorithms used in the code are based on the paper:
 	
 Project page:
 
-	http://iebil.di.unimi.it/fusionnet/index.htm
+http://iebil.di.unimi.it/fusionnet/index.htm
 
 Outline:
 ![Outline](http://iebil.di.unimi.it/fusionnet/imgs/outline.png "Outline")
