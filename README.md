@@ -4,9 +4,9 @@ Demonstration source code using the webcam for touchless palmprint and finger te
 The algorithms used in the code are based on the paper:
 
 	A. Genovese, V. Piuri, F. Scotti, and S. Vishwakarma, 
-    "Touchless palmprint and finger texture recognition: A Deep Learning fusion approach", 
-    2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments for Measurement Systems and Applications (CIVEMSA 2019),
-    Tianjin, China, June 14-16, 2019
+	"Touchless palmprint and finger texture recognition: A Deep Learning fusion approach", 
+	2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments for Measurement Systems and Applications (CIVEMSA 2019),
+	Tianjin, China, June 14-16, 2019
 	
 Project page:
 
