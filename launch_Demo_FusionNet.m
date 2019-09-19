@@ -26,6 +26,7 @@ log = 1;
 dbname = 'webcam';
 filename = getDateAng();
 dirDB = './dirDB/';
+mkdir_pers(dirDB, savefile);
 
 
 %--------------------------------------------------------------------------
