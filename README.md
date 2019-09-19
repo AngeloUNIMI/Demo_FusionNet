@@ -45,6 +45,7 @@ Requirements:
     %cam.Resolution = '640x480';
 
 Procedure:
+(see also Instructions: https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/Instructions/Demo_FusionNet%20-%20Instructions.pdf)
 
     1) launch main file and choose 'e' for enrolling individuals
         a) choose a name for the individual
