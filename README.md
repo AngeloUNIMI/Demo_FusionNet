@@ -45,15 +45,7 @@ Requirements:
     %cam.Resolution = '640x480';
 
 Procedure:<br/>
-(see also Instructions: https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/Instructions/Demo_FusionNet%20-%20Instructions.pdf)
-
-    1) launch main file and choose 'e' for enrolling individuals
-        a) choose a name for the individual
-        b) capture the background without body parts and moving objects
-        c) capture the left hand sideways, placing the hand inside the red box (see "./demo_images/hand_acquisition.png")
-        d) repeat acquisition until 3 successful acquisitions are performed
-    2) launch main file to enroll as many individuals as needed
-    3) launch main file and choose 'r' for recognition
+See Instructions: https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/Instructions/Demo_FusionNet%20-%20Instructions.pdf
 
 Images: 
 
