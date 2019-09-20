@@ -45,7 +45,7 @@ Requirements:
     %cam.Resolution = '640x480';
 
 Procedure:<br/>
-See Instructions: https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/Instructions/Demo_FusionNet%20-%20Instructions.pdf
+https://github.com/AngeloUNIMI/Demo_FusionNet/blob/master/Instructions/Demo_FusionNet%20-%20Instructions.pdf
 
 Images: 
 
