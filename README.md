@@ -15,6 +15,10 @@ http://iebil.di.unimi.it/fusionnet/index.htm
 Outline:
 ![Outline](http://iebil.di.unimi.it/fusionnet/imgs/outline.png "Outline")
 
+Source code:
+
+[https://github.com/AngeloUNIMI/FusionNet](https://github.com/AngeloUNIMI/FusionNet)
+
 Citation:
 
     @InProceedings {civemsa19,
