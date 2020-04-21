@@ -5,8 +5,9 @@ The algorithms used in the code are based on the paper:
 
 	A. Genovese, V. Piuri, F. Scotti, and S. Vishwakarma, 
 	"Touchless palmprint and finger texture recognition: A Deep Learning fusion approach", 
-	2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments for Measurement Systems and Applications (CIVEMSA 2019),
-	Tianjin, China, June 14-16, 2019
+	in Proc. of the 2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments for Measurement Systems and Applications (CIVEMSA 2019), 
+	Tianjin, China, June 14-16, 2019, pp. 1-6. 
+	ISBN: 978-1-5386-8344-6. DOI: 10.1109/CIVEMSA45640.2019.9071620
 	
 Project page:
 
@@ -21,15 +22,17 @@ Source code:
 
 Citation:
 
-    @InProceedings {civemsa19,
-        author = {A. Genovese and V. Piuri and F. Scotti and S. Vishwakarma},
-        booktitle = {Proc. of the 2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments for Measurement Systems and Applications (CIVEMSA 2019)},
-        title = {Touchless palmprint and finger texture recognition: A Deep Learning fusion approach},
-        address = {Tianjin, China},
-        month = {June},
-        day = {14-16},
-        year = {2019},
-    }
+	@InProceedings {civemsa19,
+	    author = {A. Genovese and V. Piuri and F. Scotti and S. Vishwakarma},
+	    booktitle = {Proc. of the 2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments
+	    for Measurement Systems and Applications (CIVEMSA 2019)},
+	    title = {Touchless palmprint and finger texture recognition: A Deep Learning fusion approach},
+	    address = {Tianjin, China},
+	    month = {June},
+	    day = {14-16},
+	    year = {2019},
+	    pages = {1-6},
+	}
 
 Main files:
 
