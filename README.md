@@ -14,7 +14,7 @@ Project page:
 http://iebil.di.unimi.it/fusionnet/index.htm
 
 Outline:
-![Outline](http://iebil.di.unimi.it/fusionnet/imgs/outline.png "Outline") 
+![Outline](http://iebil.di.unimi.it/fusionnet/imgs/outline2.png "Outline") 
 
 Source code:
 
