@@ -9,12 +9,16 @@ The algorithms used in the code are based on the paper:
 	Tianjin, China, June 14-16, 2019, pp. 1-6. 
 	ISBN: 978-1-5386-8344-6. DOI: 10.1109/CIVEMSA45640.2019.9071620
 	
+Paper:
+
+https://ieeexplore.ieee.org/document/9071620
+	
 Project page:
 
 http://iebil.di.unimi.it/fusionnet/index.htm
 
 Outline:
-![Outline](http://iebil.di.unimi.it/fusionnet/imgs/outline2.png "Outline") 
+![Outline](https://iebil.di.unimi.it/palmnet/imgs/outline_fusionnet.png "Outline") 
 
 Source code:
 
